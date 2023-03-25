@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="807" height="341" viewBox="0 0 807 341">
+  <title>cache-busting-1</title>
+  <g>
+    <text transform="translate(199 115.34)" font-size="24" font-family="Courier, Courier">GET <tspan x="57.61" y="0" fill="#60bcd8">/education</tspan><tspan x="201.63" y="0" fill="#159c80">?x=y</tspan><tspan x="259.24" y="0" xml:space="preserve"> HTTP/1.1</tspan><tspan x="388.86" y="0" letter-spacing="-0.6em">​</tspan><tspan x="0" y="38.8">Host: </tspan><tspan x="86.41" y="38.8" fill="#159c80">store.unity.com</tspan><tspan x="302.45" y="38.8" fill="#159c80" letter-spacing="-0.6em">​</tspan><tspan x="0" y="77.6">X-Original-URL: </tspan><tspan x="230.44" y="77.6" fill="#f63">/gambling</tspan><tspan x="360.06" y="77.6">?x=y</tspan><tspan x="417.67" y="77.6" letter-spacing="-0.6em">​</tspan></text>
+    <polygon points="385.96 289.86 467.02 211.72 473.04 217.96 478.5 199 459.35 203.76 465.37 210 384.31 288.14 385.96 289.86" fill="#ff774a" />
+    <polygon points="644.76 237.03 606.79 209.95 611.83 202.89 592.19 201 600.37 218.95 605.41 211.89 643.38 238.97 644.76 237.03" fill="#606467" />
+    <polygon points="291.1 54.94 330.94 85.94 325.62 92.79 345.16 95.5 337.73 77.22 332.41 84.07 292.56 53.06 291.1 54.94" fill="#72c4dc" />
+    <polygon points="515 51.06 471.86 84.16 466.58 77.27 459.02 95.5 478.59 92.93 473.31 86.04 516.45 52.94 515 51.06" fill="#2fa78e" />
+    <rect x="57.5" y="34" width="235.93" height="40" fill="#d0f1f7" stroke="#60bcd8" stroke-miterlimit="10" />
+    <rect x="515.73" y="12" width="210.77" height="40" fill="#bfe2d9" stroke="#159c80" stroke-miterlimit="10" />
+    <rect x="492.41" y="238" width="265.59" height="40" fill="#ebf0f2" stroke="#4c5054" stroke-miterlimit="10" />
+    <rect x="217.54" y="289" width="237.94" height="40" fill="#fcebe8" stroke="#f63" stroke-miterlimit="10" />
+    <text transform="translate(68 61.23)" font-size="23" fill="#0071bc" font-family="Verdana, Verdana">Unused and <tspan x="144.83" y="0" letter-spacing="-0.01em">k</tspan><tspan x="158.21" y="0">e</tspan><tspan x="171.92" y="0" letter-spacing="-0.01em">y</tspan><tspan x="185.32" y="0">ed</tspan></text>
+    <text transform="translate(530.19 40.23)" font-size="23" fill="#159c80" font-family="Verdana, Verdana">Used and <tspan x="115.72" y="0" letter-spacing="-0.01em">k</tspan><tspan x="129.1" y="0">e</tspan><tspan x="142.81" y="0" letter-spacing="-0.01em">y</tspan><tspan x="156.21" y="0">ed</tspan><tspan x="184.25" y="0" letter-spacing="-0.35em">​</tspan></text>
+    <text transform="translate(504 264.98)" font-size="23" fill="#4c5054" font-family="Verdana, Verdana">Unused and un<tspan x="173.94" y="0" letter-spacing="-0.01em">k</tspan><tspan x="187.32" y="0">e</tspan><tspan x="201.02" y="0" letter-spacing="-0.01em">y</tspan><tspan x="214.43" y="0">ed</tspan></text>
+    <text transform="translate(231 316.98)" font-size="23" fill="#f63" font-family="Verdana, Verdana">Used and un<tspan x="144.83" y="0" letter-spacing="-0.01em">k</tspan><tspan x="158.21" y="0">e</tspan><tspan x="171.92" y="0" letter-spacing="-0.01em">y</tspan><tspan x="185.32" y="0">ed</tspan></text>
+  </g>
+</svg>
